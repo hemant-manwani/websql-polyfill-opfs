@@ -1,6 +1,6 @@
 # WebSQL Polyfill with OPFS
 
-##WARNING- This polyfill works fine but with larger DB files example 40 MB in browsers, data updates are very slow. It can be used with small projects.
+## WARNING- This polyfill works fine but with larger DB files example 40 MB in browsers, data updates are very slow. It can be used with small projects.
 
 This project provides a WebSQL polyfill using SQL.js, allowing you to use WebSQL-like functionality in browsers that don't natively support it.
 
